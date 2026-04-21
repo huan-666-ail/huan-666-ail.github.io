@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://huan-666-ail.github.io/sitemap.xml
